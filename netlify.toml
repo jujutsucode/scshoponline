@@ -1,5 +1,5 @@
 [build]
-command = "mise install && mise run build -b $DEPLOY_URL"
+command = "mise install && mise run build -b scshoponline.com"
 publish = "public"
 
 [build.environment]
